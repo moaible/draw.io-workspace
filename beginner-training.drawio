@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T10:22:34.173Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="HFwZ5VKaUvecVy3si-zE" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T10:23:13.581Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="aS5NYsDpuyrePbiXIwhR" version="15.7.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2951" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -51,10 +51,10 @@
         <mxCell id="1753" value="[サービス]&lt;br&gt;GitHub" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;fillColor=#6600CC;" parent="1" vertex="1">
           <mxGeometry x="215" y="385.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1754" value="[開発手法]&lt;br&gt;Kanban Board" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#330066;" parent="1" vertex="1">
+        <mxCell id="1754" value="[開発手法]&lt;br&gt;Kanban Board" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E5CCFF;" parent="1" vertex="1">
           <mxGeometry x="-20" y="385.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1756" value="[ツール]&lt;br&gt;Git&lt;br&gt;(ソースコード管理)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#330066;" parent="1" vertex="1">
+        <mxCell id="1756" value="[ツール]&lt;br&gt;Git&lt;br&gt;(ソースコード管理)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E5CCFF;" parent="1" vertex="1">
           <mxGeometry x="215" y="680" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
@@ -170,7 +170,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q4df0H-JlEwPYiJTYYAv-1809" value="[ポートフォリオ]&lt;br&gt;バックエンドAPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#330066;" parent="1" vertex="1">
+        <mxCell id="Q4df0H-JlEwPYiJTYYAv-1809" value="[ポートフォリオ]&lt;br&gt;バックエンドAPI" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;fillColor=#E5CCFF;" parent="1" vertex="1">
           <mxGeometry x="-20" y="200.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q4df0H-JlEwPYiJTYYAv-1810" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;strokeColor=#E5CCFF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1754" target="Q4df0H-JlEwPYiJTYYAv-1809" edge="1">
