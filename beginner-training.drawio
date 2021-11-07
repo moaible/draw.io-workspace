@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T09:45:00.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="b_y9tOTDWwg8hkA2gKE8" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T09:48:27.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="xPP4rC2IEfCbDkBduW0J" version="14.1.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2723" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="i6-dnkmMVc0bPrFyyD5V-1788" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ichi.pro/assets/images/max/724/1*ZM82raTAQrw1KUkHiwErqw.png;imageBorder=#000000;" vertex="1" parent="1">
           <mxGeometry x="1060" y="151.81" width="310" height="233.69" as="geometry" />
+        </mxCell>
+        <mxCell id="i6-dnkmMVc0bPrFyyD5V-1791" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/51EuLXpy87L._SX352_BO1,204,203,200_.jpg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="195.96999999999997" width="49" height="69.07" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
